@@ -10,7 +10,7 @@ uses `QMediaPlayer`.
 sudo pacman -S --needed base-devel cmake ninja qt6-base qt6-multimedia
 ```
 
-For exact top-level window positioning under Hyprland/Wayland, install and use
+For exact top-level window positioning under Wayland, install and use
 XWayland:
 
 ```bash
@@ -23,7 +23,7 @@ To Run:
 ./build/crazy-error
 ```
 
-This requires an active XWayland server (normally provided by Hyprland).
+This requires an active XWayland server.
 
 ## Build
 
