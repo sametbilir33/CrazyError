@@ -17,12 +17,10 @@ XWayland:
 sudo pacman -S --needed xorg-xwayland
 ```
 
-Qt applications running as native Wayland clients generally cannot choose
-arbitrary global window coordinates. To preserve the original `move(x, y)`
-behavior, launch this app through Qt's XCB platform plugin:
+To Run:
 
 ```bash
-QT_QPA_PLATFORM=xcb ./build/crazy-error
+./build/crazy-error
 ```
 
 This requires an active XWayland server (normally provided by Hyprland).
@@ -40,7 +38,7 @@ Then:
 cmake -S . -B build -G Ninja -DCMAKE_BUILD_TYPE=Release
 cmake --build build
 cp CRAZY-ERROR-170BPM.mid CRAZY-ERROR-170BPM.wav build/
-QT_QPA_PLATFORM=xcb ./build/crazy-error
+./build/crazy-error
 ```
 
 The program resolves its assets relative to the executable directory.
