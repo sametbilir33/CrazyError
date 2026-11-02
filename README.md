@@ -67,3 +67,11 @@ create instrument grouping differently.
 The original program explicitly positions many independent windows. Wayland
 does not provide ordinary clients with unrestricted global window placement.
 XWayland/X11 is therefore required if those coordinates must be honored.
+
+## Music Assets and Copyright
+
+The MIDI and WAV files are required for the intended experience.
+
+The music and underlying composition/recording remain the property of their respective rights holders. This project does not claim ownership of these works.
+
+A permission request regarding redistribution of these assets has been submitted to IOSYS and is currently pending.
