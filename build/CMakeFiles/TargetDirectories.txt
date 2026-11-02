@@ -1,9 +1,0 @@
-/home/samet/Projeler/CrazyError/build/CMakeFiles/crazy-error.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/edit_cache.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/rebuild_cache.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/list_install_components.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/install.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/install/local.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/install/strip.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/crazy-error_autogen_timestamp_deps.dir
-/home/samet/Projeler/CrazyError/build/CMakeFiles/crazy-error_autogen.dir
